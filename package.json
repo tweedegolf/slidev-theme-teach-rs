@@ -19,6 +19,7 @@
     "screenshot": "slidev export example.md --format png"
   },
   "dependencies": {
+    "@slidev/theme-default": "^0.21.2",
     "@slidev/types": "^0.43.7",
     "codemirror-theme-vars": "^0.1.2",
     "prism-theme-vars": "^0.2.4",
@@ -38,7 +39,9 @@
       },
       "class": "text-center",
       "lineNumbers": "true",
-      "drawings": { "persist": false }
+      "drawings": {
+        "persist": false
+      }
     }
   },
   "license": "(MIT OR Apache-2.0)"
