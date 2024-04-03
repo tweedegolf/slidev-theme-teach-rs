@@ -1,6 +1,6 @@
-# Rust 101 Slidev Theme
+# teach-rs Slidev Theme
 
-Theme used by default in the slides generated with [Rust 101](https://github.com/tweedegolf/101-rs)'s modmod tool.
+Theme used by default in the slides generated with [teach-rs](https://github.com/tweedegolf/teach-rs)'s modmod tool.
 
 A theme for [Slidev](https://github.com/slidevjs/slidev).
 
@@ -9,7 +9,7 @@ A theme for [Slidev](https://github.com/slidevjs/slidev).
 Add the following frontmatter to your `slides.md`. Start Slidev then it will prompt you to install the theme automatically.
 
 <pre><code>---
-theme: <b>101-rs</b>
+theme: <b>teach-rs</b>
 ---</code></pre>
 
 Learn more about [how to use a theme](https://sli.dev/themes/use).
@@ -21,6 +21,7 @@ This theme provides the following layouts:
 - `three-slots` 
 - `four-square`
 - `playground`
+- `with-footer`
 
 ## Contributing
 

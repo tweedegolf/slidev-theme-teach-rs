@@ -1,10 +1,11 @@
 {
-  "name": "slidev-theme-101-rs",
+  "name": "slidev-theme-teach-rs",
   "author": "Henk Oordt <hd@oordt.dev>",
   "version": "0.0.1",
   "keywords": [
     "slidev-theme",
     "slidev",
+    "teach-rs",
     "101-rs",
     "Rust 101"
   ],
